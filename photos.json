@@ -1,0 +1,50 @@
+ [
+    {
+      "src": "images/bridge.jpg",
+      "link": "images/bridge-small.jpg",
+      "title": "Bridge",
+      "description": "beautiful wooden bridge in the nature"
+    },
+    {
+      "src": "images/car.jpg",
+      "link": "images/car-small.jpg",
+      "title": "Car",
+      "description": "a very unique photo of a car's handle"
+    },
+    {
+      "src": "images/dog.jpg",
+      "link": "images/dog-small.jpg",
+      "title": "Dog",
+      "description": "sweet dog having blanket around itself"
+    },
+    {
+      "src": "images/eagle.jpg",
+      "link": "images/eagle-small.jpg",
+      "title": "Eagle",
+      "description": "an eagle caught in camera while flying"
+    },
+    {
+      "src": "images/nature.jpg",
+      "link": "images/nature-small.jpg",
+      "title": "Nature",
+      "description": "a gorgeous photo from nature"
+    },
+    {
+      "src": "images/onion.jpg",
+      "link": "images/onion-small.jpg",
+      "title": "Onion",
+      "description": "a very professional Photo of an onion on table"
+    },
+    {
+      "src": "images/pc.jpg",
+      "link": "images/pc-small.jpg",
+      "title": "laptop",
+      "description": "a beautiful setup of a laptop for a programmer"
+    },
+    {
+      "src": "images/wolf.jpg",
+      "link": "images/wolf-small.jpg",
+      "title": "Wolf",
+      "description": " a professional photo from an angry wolf"
+    }
+  ]
